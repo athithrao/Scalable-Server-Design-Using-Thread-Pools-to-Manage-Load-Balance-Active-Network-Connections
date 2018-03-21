@@ -33,6 +33,7 @@ If your server is functioning correctly (assuming it is adequately provisioned),
 [timestamp] Total Sent Count: x, Total Received Count: y
 # 3 Command line arguments for the two components
 Your classes should be organized in a package called cs455.scaling. The command-line arguments and the order in which they should be specified for the Server and the Client are listed below
-  java cs455.scaling.server.Server portnum thread-pool-size 
+  
+     java cs455.scaling.server.Server portnum thread-pool-size 
 
-  java cs455.scaling.client.Client server-host server-port message-rate
+     java cs455.scaling.client.Client server-host server-port message-rate
