@@ -1,8 +1,5 @@
-CS455 - HW2 - Programming Component
 SCALABLE SERVER DESIGN: USING THREAD POOLS TO MANAGE AND LOAD BALANCE ACTIVE NETWORK 
 
-Name - Athith Amarnath
-CSUID - 830715061
 
 To make the project please use the following command
 
